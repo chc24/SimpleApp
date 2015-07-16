@@ -36,6 +36,7 @@
 		C39FB2131B3C71D800796A32 /* SimpleAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C39FB2181B3C71D800796A32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C39FB2191B3C71D800796A32 /* SimpleAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleAppTests.swift; sourceTree = "<group>"; };
+		C39FB2231B3DB5DB00796A32 /* MakeSchoolNotes-Template.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; name = "MakeSchoolNotes-Template.zip"; path = "../../../Downloads/MakeSchoolNotes-Template.zip"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 		C39FB1F51B3C71D700796A32 = {
 			isa = PBXGroup;
 			children = (
+				C39FB2231B3DB5DB00796A32 /* MakeSchoolNotes-Template.zip */,
 				C39FB2001B3C71D700796A32 /* SimpleApp */,
 				C39FB2161B3C71D800796A32 /* SimpleAppTests */,
 				C39FB1FF1B3C71D700796A32 /* Products */,
